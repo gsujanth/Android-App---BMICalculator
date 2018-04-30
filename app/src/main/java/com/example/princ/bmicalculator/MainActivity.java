@@ -1,5 +1,7 @@
 package com.example.princ.bmicalculator;
-
+/*
+  Author : Sujanth Babu Guntupalli
+*/
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
